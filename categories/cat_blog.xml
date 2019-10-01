@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux User Diary (Posts about blog)</title><link>https://yousufinternet.github.io/</link><description></description><atom:link href="https://yousufinternet.github.io/categories/cat_blog.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:yusuf.mohammad@zoho.com"&gt;Yusuf Mohammad&lt;/a&gt; </copyright><lastBuildDate>Tue, 01 Oct 2019 18:19:32 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>First Post</title><link>https://yousufinternet.github.io/posts/first-post/</link><dc:creator>Yusuf Mohammad</dc:creator><description>&lt;p&gt;
+This is the first post in what is supposed to be the one of the greatest resources for technical information about computers in the 21st cent…. just kidding. 
+&lt;/p&gt;
+
+&lt;p&gt;
+My main intention for this site is to contain solutions and tips that I discover while facing challenges when using my computer, or when trying to improve my workflow in general. So no specific subject is expected here, I like Python, and I am writing this post on emacs running under BSPWM window manager, more will be revealed in the upcoming posts.
+&lt;/p&gt;</description><category>blog</category><category>me</category><guid>https://yousufinternet.github.io/posts/first-post/</guid><pubDate>Tue, 01 Oct 2019 18:09:18 GMT</pubDate></item></channel></rss>
