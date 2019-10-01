@@ -1,0 +1,4 @@
+Sitemap: https://yousufinternet.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: yousufinternet.github.io
